@@ -1,0 +1,15 @@
+\begin{tabular}{ | l | c | c | c | c | c | c | }
+\hline
+Process & Data & DYJetsToLL & SingleTop & VV & W+Jets & t#bar{t}\\ \hline
+NRecoVertex & 393975349.0 & 246808059.9 $\pm$ 495.0 & 10035134.7 $\pm$ 276.8 & 4802382.3 $\pm$ 260.9 & 2509357238.8 $\pm$ 150.4 & 28153453.4 $\pm$ 492.9 \\ \hline
+NRecoTriggers1 & 233187951.0 & 10180142.4 $\pm$ 3699.6 & 92152.8 $\pm$ 127.5 & 38171.2 $\pm$ 119.8 & 2180998.3 $\pm$ 5950.5 & 750407.1 $\pm$ 302.0 \\ \hline
+NRecoTau1 & 46850.0 & 317.2 $\pm$ 14.9 & 21.6 $\pm$ 2.0 & 11.0 $\pm$ 2.1 & 292.7 $\pm$ 13.4 & 207.0 $\pm$ 5.2 \\ \hline
+NDiTauCombinations & 6928.0 & 47.1 $\pm$ 7.7 & 1.9 $\pm$ 0.6 & 1.4 $\pm$ 0.8 & 74.9 $\pm$ 7.1 & 19.3 $\pm$ 1.5 \\ \hline
+METCut & 3399.0 & 14.1 $\pm$ 4.4 & 0.0 $\pm$ 0.0 & 0.0 $\pm$ 0.0 & 13.4 $\pm$ 3.1 & 2.3 $\pm$ 0.6 \\ \hline
+NRecoMuon1 & 3399.0 & 14.1 $\pm$ 4.4 & 0.0 $\pm$ 0.0 & 0.0 $\pm$ 0.0 & 13.4 $\pm$ 3.1 & 2.2 $\pm$ 0.6 \\ \hline
+NRecoElectron1 & 3396.0 & 13.7 $\pm$ 4.4 & 0.0 $\pm$ 0.0 & 0.0 $\pm$ 0.0 & 13.4 $\pm$ 3.1 & 2.2 $\pm$ 0.6 \\ \hline
+NRecoBJet & 3331.0 & 13.6 $\pm$ 4.4 & 0.0 $\pm$ 0.0 & 0.0 $\pm$ 0.0 & 13.4 $\pm$ 3.1 & 0.4 $\pm$ 0.2 \\ \hline
+NRecoJet1 & 785.0 & 5.9 $\pm$ 2.9 & 0.0 $\pm$ 0.0 & 0.0 $\pm$ 0.0 & 3.6 $\pm$ 1.5 & 0.3 $\pm$ 0.2 \\ \hline
+NRecoJet2 & 206.0 & 2.9 $\pm$ 2.1 & 0.0 $\pm$ 0.0 & 0.0 $\pm$ 0.0 & 1.0 $\pm$ 0.7 & 0.3 $\pm$ 0.2 \\ \hline
+NDiJetCombinations & 188.0 & 2.9 $\pm$ 2.1 & 0.0 $\pm$ 0.0 & 0.0 $\pm$ 0.0 & 1.0 $\pm$ 0.7 & 0.3 $\pm$ 0.2 \\ \hline
+\end{tabular}
